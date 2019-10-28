@@ -1,0 +1,6 @@
+# Your name
+name=Joost
+# Your favorite animal
+animal=dog
+# Encryption method
+encrypt=Caesar
